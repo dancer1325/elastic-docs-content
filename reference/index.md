@@ -10,10 +10,10 @@ description: Explore reference documentation for the Elastic Stack including API
 
 # Reference [api-reference]
 
-Explore the reference documentation for the Elastic Stack. Whether you are configuring security protocols, enhancing search functionalities, or integrating with cloud services, our detailed manuals, API guides, and configuration settings provide the information you need.
+- Elastic Stack's reference documentation
 
 ## APIs
-Explore the reference documentation for [Elastic APIs]({{apis}}).
+[Elastic APIs]({{apis}})
 
 |     |     |
 | --- | --- |
