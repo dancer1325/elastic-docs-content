@@ -10,10 +10,10 @@ description: Explore reference documentation for the Elastic Stack including API
 
 # Reference [api-reference]
 
-Explore the reference documentation for the Elastic Stack. Whether you are configuring security protocols, enhancing search functionalities, or integrating with cloud services, our detailed manuals, API guides, and configuration settings provide the information you need.
+- Elastic Stack's reference documentation
 
 ## APIs
-Explore the reference documentation for [Elastic APIs]({{apis}}).
+[Elastic APIs]({{apis}})
 
 |     |     |
 | --- | --- |
@@ -25,13 +25,14 @@ Explore the reference documentation for [Elastic APIs]({{apis}}).
 
 ## Elasticsearch and index management
 
-Customize your Elastic Stack setup with our configuration reference guides. Explore JVM settings, client documentation, Elasticsearch privileges, and index lifecycle actions to find the detailed information you need to configure your environment to your specific needs.
+- goal
+  - configure JVM settings, client documentation, Elasticsearch privileges, and index lifecycle actions
 
-**Learn more in [Elasticsearch and index management](elasticsearch://reference/elasticsearch/index.md)**
+- [here](elasticsearch://reference/elasticsearch/index.md)
 
 ## Kibana
 
-Visualize and analyze your data with Kibana. Configure advanced settings, explore plugins, and utilize command line tools to enhance your data insights.
+Configure advanced settings, explore plugins, and utilize command line tools to enhance your data insights.
 
 **Learn more in [Kibana](kibana://reference/index.md)**
 
