@@ -28,7 +28,7 @@ description: Explore reference documentation for the Elastic Stack including API
 - goal
   - configure JVM settings, client documentation, Elasticsearch privileges, and index lifecycle actions
 
-- [here](elasticsearch://reference/elasticsearch/index.md)**
+- [here](elasticsearch://reference/elasticsearch/index.md)
 
 ## Kibana
 
