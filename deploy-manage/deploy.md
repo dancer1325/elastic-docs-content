@@ -11,9 +11,14 @@ products:
 
 # Deploy
 
-Whether you're planning to use Elastic's pre-built solutions or Serverless projects, build your own applications with {{es}}, or analyze your data using {{kib}} tools, you'll need to deploy Elastic first.
+* goal
+  * how to chooose your deployment approach 
 
-This page will help you understand your deployment options and choose the approach that best fits your needs.
+* deploying FIRSTLY Elastic
+  * enable you to,
+    * use Elastic's pre-built solutions OR Serverless projects,
+    * build your own applications -- with -- {{es}}
+    * analyze your data -- via -- {{kib}} tools
 
 ## Core components
 

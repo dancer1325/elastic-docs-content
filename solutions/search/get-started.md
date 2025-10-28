@@ -15,17 +15,18 @@ description: To try out an {{es}} project or solution, pick your deployment type
 
 # Get started with {{es}}
 
-New to {{es}}? Start building a search experience by setting up your first deployment, refining your search goals, and adding data.
+* goal
+  * build a search experience -- by -- 
+    * setting up your first deployment,
+    * refining your search goals,
+    * adding data
 
-:::{note}
-If you're looking for an introduction to the {{stack}} or the {{es}} product, go to [](/get-started/index.md) or [](/manage-data/data-store.md).
-:::
-
-::::::{stepper}
-:::::{step} Choose your deployment type
-
-Elastic provides several self-managed and Elastic-managed options.
-For simplicity and speed, try out [{{es-serverless}}](/solutions/search.md#elasticsearch-serverless):
+* steps
+  * choose your deployment type
+    * self-managed
+    * Elastic-managed options
+    * [{{es-serverless}}](../search.md#es-serverless-elasticsearch-serverless)
+      * MORE simple and fast 
 
 ::::{dropdown} Create an {{es-serverless}} project
 :::{include} /deploy-manage/deploy/_snippets/create-serverless-project-intro.md

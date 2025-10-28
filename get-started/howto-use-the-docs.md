@@ -94,8 +94,4 @@ You can browse documentation for different versions of our products in two ways:
 
 ## Glossary
 
-To help you understand the terminology used throughout our documentation, we provide a [glossary of common Elastic terms](/reference/glossary/index.md). This is a great resource for new users or anyone looking to clarify the meaning of a specific term.
-
-## How to contribute
-
-We value contributions from our community. For detailed instructions on how to contribute to both the main documentation and the API references, refer to our [contribution guide](https://www.elastic.co/docs/extend/contribute/).
+* [here](../reference/glossary/index.md)

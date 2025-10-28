@@ -2,7 +2,9 @@
 
 ![GitHub deployments](https://img.shields.io/github/deployments/elastic/docs-content/docs-preview?logo=elastic&label=docs-preview&link=https%3A%2F%2Fdocs-v3-preview.elastic.dev%2Felastic%2Fdocs-content%2Ftree%2Fmain)
 
-* == Elastic documentation's source files 
+* == Elastic documentation's source files
+* [documentation's index](docset.yml) (`.toc`)
+  * [documentation's shortname](docset.yml) (`.subs`)
 
 ## Contribute
 
