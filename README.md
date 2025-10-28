@@ -2,13 +2,15 @@
 
 ![GitHub deployments](https://img.shields.io/github/deployments/elastic/docs-content/docs-preview?logo=elastic&label=docs-preview&link=https%3A%2F%2Fdocs-v3-preview.elastic.dev%2Felastic%2Fdocs-content%2Ftree%2Fmain)
 
-This repo contains source files for Elastic documentation.
+* == Elastic documentation's source files 
 
 ## Contribute
 
-If you find any bugs in our documentation, or want to request an enhancement, [open an issue](https://github.com/elastic/docs-content/issues). We also welcome contributions in the form of PRs. Before you submit a PR, make sure that you have signed our [Contributor License Agreement](https://www.elastic.co/contributor-agreement/).
-
-We write our docs in markdown. See our [syntax guide](https://elastic.github.io/docs-builder/syntax/index.html) for examples and additional functionality.
+* [raise an issue](https://github.com/elastic/docs-content/issues)
+* open a PR 
+  * requirements
+    * sign [Contributor License Agreement](https://www.elastic.co/contributor-agreement/)
+    * [syntax guide](https://elastic.github.io/docs-builder/syntax/index.html)
 
 ### Preview your changes
 
