@@ -22,31 +22,17 @@ description: To try out an {{es}} project or solution, pick your deployment type
     * adding data
 
 * steps
-  * choose your deployment type
-    * self-managed
+  * choose your [deployment type](../../deploy-manage/deploy.md#choosing-your-deployment-type)
+    * [self-managed](../../deploy-manage/deploy/self-managed/)
+      * _Example:_ [local development installation](../../deploy-manage/deploy/self-managed/local-development-installation-quickstart.md)
     * Elastic-managed options
     * [{{es-serverless}}](../search.md#es-serverless-elasticsearch-serverless)
-      * MORE simple and fast 
+      * MORE simple and fast
+  * create an [{{es-serverless}} project](../../deploy-manage/deploy/_snippets/create-serverless-project-intro.md)
+  * choose the {{es}} project type
+  * provide a name
 
-::::{dropdown} Create an {{es-serverless}} project
-:::{include} /deploy-manage/deploy/_snippets/create-serverless-project-intro.md
-:::
-
-Choose the {{es}} project type and provide a name.
-You can optionally edit the project settings, such as the [region](/deploy-manage/deploy/elastic-cloud/regions.md).
-
-When your project is created, you're ready to move on to the next step and to start creating indices, adding data, and performing searches.
-::::
-
-Alternatively, create a [local development installation](/deploy-manage/deploy/self-managed/local-development-installation-quickstart.md) in Docker:
-
-```sh
-curl -fsSL https://elastic.co/start-local | sh
-```
-
-Check out the full list of [deployment types](/deploy-manage/deploy.md#choosing-your-deployment-type) to learn more.
-:::::
-
+* TODO:
 :::::{step} Identify your search goals
 Depending on your use case, you can choose multiple [search approaches](search-approaches.md), for example full-text and semantic search.
 Each approach affects your options for storing and querying your data.
